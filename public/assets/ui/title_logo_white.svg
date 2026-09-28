@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1194 330" role="img" aria-labelledby="title">
+  <title id="title">宿舍怪谈</title>
+  <defs>
+    <filter id="ink-to-white">
+      <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  -.333 -.333 -.333 0 1"/>
+    </filter>
+  </defs>
+  <image href="/assets/ui/title_logo.png" width="1194" height="330" filter="url(#ink-to-white)"/>
+</svg>
